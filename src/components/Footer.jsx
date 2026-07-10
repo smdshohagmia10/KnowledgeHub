@@ -33,10 +33,10 @@ export default function Footer() {
   ];
 
   const socialLinks = [
-    { icon: <FaFacebookF size={16} />, href: "https://www.facebook.com/lokman.hossen.697687", label: "Facebook" },
+    { icon: <FaFacebookF size={16} />, href: "https://www.facebook.com/share/1Pa9qwcCui/", label: "Facebook" },
     { icon: <FaTwitter size={16} />, href: "#", label: "Twitter" },
-    { icon: <FaLinkedinIn size={16} />, href: "https://www.linkedin.com/in/lokman-hossen-dev", label: "LinkedIn" },
-    { icon: <FaGithub size={16} />, href: "https://github.com/lokman1313", label: "GitHub" },
+    { icon: <FaLinkedinIn size={16} />, href: "www.linkedin.com/in/sohag-dev", label: "LinkedIn" },
+    { icon: <FaGithub size={16} />, href: "https://github.com/smdshohagmia10", label: "GitHub" },
   ];
 
   return (
